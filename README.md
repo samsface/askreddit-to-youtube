@@ -1,4 +1,4 @@
-# comments-to-youtube
+# askreddit-to-youtube
 Script to auto-generate those youtube videos were someone screen shots askreddit and puts a robot voice on it
 
 
